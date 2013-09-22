@@ -1,0 +1,6 @@
+<div class="span4 well">
+  <form id="new-tweet">
+    <textarea class="span4" id="new_message" name="new_message" placeholder="Type in your message" rows="5" data-tweet-body=""></textarea>
+    <button class="btn btn-info" type="submit" data-tweet-submit="">Post New Message</button>
+  </form>
+</div>
